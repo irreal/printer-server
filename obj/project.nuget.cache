@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "l3FB2LZRt7w=",
+  "success": true,
+  "projectFilePath": "/Users/milosspasojevic/projects/1x/printer-server/printer-server.csproj",
+  "expectedPackageFiles": [
+    "/Users/milosspasojevic/.nuget/packages/esc-pos-usb-net/1.1.3/esc-pos-usb-net.1.1.3.nupkg.sha512",
+    "/Users/milosspasojevic/.nuget/packages/microsoft.netcore.platforms/3.0.0/microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "/Users/milosspasojevic/.nuget/packages/microsoft.win32.systemevents/4.6.0/microsoft.win32.systemevents.4.6.0.nupkg.sha512",
+    "/Users/milosspasojevic/.nuget/packages/system.drawing.common/4.6.0/system.drawing.common.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
